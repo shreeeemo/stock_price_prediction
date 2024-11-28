@@ -7,3 +7,7 @@ __pycache__/
 
 # Ignore unnecessary system files
 .DS_Store
+
+# Ignore model files
+*.h5
+*.keras
